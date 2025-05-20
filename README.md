@@ -22,4 +22,5 @@ make
 默认配置文件请访问 Wiki 页面的 Configuration 子页面。
 
 ## 上面是官方文档,以下是本人配置过的使用文档
-主要是安装frps启动,frps的二进制文件可以使用自己配置下载的,
+主要是安装frps启动,frps的二进制文件可以使用自己配置下载的, 配置文件参考原来博主的:
+https://github.com/ZeroDream-CN/SakuraFrp/wiki/Configuration
